@@ -1,0 +1,14 @@
+encryption/PasswordToKeyConverter.java
+ encryption.PasswordToKeyConverter
+Main.java
+ Main
+encryption/MagmaEncryptor.java
+ encryption.MagmaEncryptor
+utils/ArrayHelper.java
+ utils.ArrayHelper
+utils/NumberPrinter.java
+ utils.NumberPrinter
+encryption/MagmaParallelEncryptor.java
+ encryption.MagmaParallelEncryptor
+utils/TypeConverter.java
+ utils.TypeConverter

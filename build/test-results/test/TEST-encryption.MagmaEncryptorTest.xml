@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="encryption.MagmaEncryptorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-07-11T22:12:41" hostname="LAPTOP-6R46FHR6" time="0.032">
+  <properties/>
+  <testcase name="sBoxSubstitutionTest1()" classname="encryption.MagmaEncryptorTest" time="0.018"/>
+  <testcase name="sBoxSubstitutionTest2()" classname="encryption.MagmaEncryptorTest" time="0.001"/>
+  <testcase name="sBoxSubstitutionTest3()" classname="encryption.MagmaEncryptorTest" time="0.0"/>
+  <testcase name="sBoxSubstitutionTest4()" classname="encryption.MagmaEncryptorTest" time="0.0"/>
+  <testcase name="keyExpansionTest()" classname="encryption.MagmaEncryptorTest" time="0.001"/>
+  <testcase name="oneIterationEncryptTest1()" classname="encryption.MagmaEncryptorTest" time="0.002"/>
+  <testcase name="oneIterationEncryptTest2()" classname="encryption.MagmaEncryptorTest" time="0.001"/>
+  <testcase name="oneBlockDecodeTest()" classname="encryption.MagmaEncryptorTest" time="0.004"/>
+  <testcase name="oneBlockEncodeTest()" classname="encryption.MagmaEncryptorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
